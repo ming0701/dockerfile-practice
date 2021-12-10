@@ -1,5 +1,4 @@
-# author: Brandon Lam
-# date: 9-Dec-2021
+# Author: Brandon Lam
 
 FROM jupyter/scipy-notebook
 
